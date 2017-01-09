@@ -1,0 +1,84 @@
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.exe.config
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.exe
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.pdb
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.csprojResolveAssemblyReference.cache
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Formulario.resources
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Principal.resources
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Properties.Resources.resources
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.csproj.GenerateResource.Cache
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.exe
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.pdb
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Asientos.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.exe.config
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.exe
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.pdb
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.exe
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.pdb
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.csprojResolveAssemblyReference.cache
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Asientos.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Formulario.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Principal.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Properties.Resources.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.csproj.GenerateResource.Cache
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.registroVuelo.resources
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.registroVuelo.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.EliminarVuelo.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Grafo.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.RegistroPasajero.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.exe.config
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.exe
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.pdb
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.exe
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.pdb
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\mscorlib.dll
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\System.Net.Http.dll
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\System.Net.Http.xml
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\es\mscorlib.resources.dll
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\normidna.nlp
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\normnfc.nlp
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\normnfd.nlp
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\normnfkc.nlp
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\normnfkd.nlp
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.csprojResolveAssemblyReference.cache
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.AgregarXY.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Asientos.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.EliminarVuelo.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Formulario.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Grafo.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Principal.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Properties.Resources.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.RegistrarGrafo.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.RegistroPasajero.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.registroVuelo.resources
+C:\Users\kyo_9\Desktop\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.csproj.GenerateResource.Cache
+C:\Users\Kiyoshi\Downloads\Decoder-Airlines\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.exe.config
+C:\Users\Kiyoshi\Downloads\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.exe
+C:\Users\Kiyoshi\Downloads\Decoder-Airlines\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.pdb
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.AgregarXY.resources
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.EliminarVuelo.resources
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Grafo.resources
+C:\Users\Kiyoshi\Desktop\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.RegistroPasajero.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.AgregarXY.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Propuesta.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.ComprarPropuesta.resources
+C:\Users\Kiyoshi\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.AsientosPropuesta.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.exe.config
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.exe
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\bin\Debug\Decoder Airlines.pdb
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.csprojResolveAssemblyReference.cache
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.AgregarXY.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Asientos.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.AsientosPropuesta.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.ComprarPropuesta.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.EliminarVuelo.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Formulario.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Grafo.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Principal.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Properties.Resources.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.Propuesta.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.RegistroPasajero.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder_Airlines.registroVuelo.resources
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.csproj.GenerateResource.Cache
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.exe
+C:\Users\david\Google Drive\CUCEI\Semestre 3\Seminario De Solucion De Problemas De Algoritmia\Decoder Airlines\Decoder Airlines\obj\Debug\Decoder Airlines.pdb
